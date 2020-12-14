@@ -22,7 +22,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-43853d?style=flat-square&logo=Jest&logoColor=white" />
-</p>)
+</p>
 
 ## &#x1f4c8; GitHub Stats
 <details open>
