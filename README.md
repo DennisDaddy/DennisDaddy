@@ -2,7 +2,7 @@
 
 ### 🔧 Technologies & Tools
 
-###Things I code with
+<h3>Things I code with</h3>
 <p>
   <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-46a2f1?style=flat-square&logo=ruby&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
