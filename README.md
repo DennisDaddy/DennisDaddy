@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## 🔧 Technologies & Tools
+### 🔧 Technologies & Tools
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -40,8 +40,8 @@
 <br>
 
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Cyrus-Kiprop&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Cyrus-Kiprop&hide=css,java,html&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=DennisDaddy&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DennisDaddy&hide=css,java,html&theme=tokyonight">
 </p>
 
 </details>
