@@ -1,4 +1,4 @@
-### Hello World!! 👋
+### Hello, there!! 👋
 
 ### 🔧 Technologies & Tools
 
