@@ -1,6 +1,7 @@
 ### Hello, there! 👋
-
-I'm a passionate Software Developer 💻, I have experience developing web applications and software projects. During the past 3 years, I have been working with Ruby on Rails, CSS, Javascript, Bootstrap, and React in different projects. I know that we can achieve great things together! 🚀🚀🚀
+<p>
+  I'm a passionate <b>Software Developer</b> 💻, I have experience developing web applications and software projects. During the past 3 years, I have been working with    Ruby on Rails, CSS, Javascript, Bootstrap, and React in different projects. I know that we can achieve great things together! 🚀🚀🚀
+</p>
 
 ### 🔧 Technologies & Tools
 
@@ -28,7 +29,7 @@ I'm a passionate Software Developer 💻, I have experience developing web appli
 
 ## &#x1f4c8; GitHub Stats
 <details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
+ <summary> 🌟 <b>My Github Stats</b>: </summary>
 
 <br>
 
