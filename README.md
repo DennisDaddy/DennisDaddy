@@ -1,4 +1,6 @@
-### Hello, there!! 👋
+### Hello, there! 👋
+
+I'm a passionate Software Developer 💻, I have experience developing web applications and software projects. During the past 3 years, I have been working with Ruby on Rails, CSS, Javascript, Bootstrap, and React in different projects. I know that we can achieve great things together! 🚀🚀🚀
 
 ### 🔧 Technologies & Tools
 
